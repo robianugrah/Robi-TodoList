@@ -1,8 +1,6 @@
 public class ApliklasiTodoList {
 
-  //hello there Agung was here
-  //Mwehehehehe
-
+  
     public static String[]model = new String[10];
     
     public static java.util.Scanner scanner = new java.util.Scanner(System.in);
